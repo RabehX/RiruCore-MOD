@@ -1,0 +1,9 @@
+id=riru-core
+name=Riru Core MOD
+version=v1.0.0
+versionCode=100
+author=RabahX
+description=This Modified Magisk Module For Riru Core .
+updateJson=https://raw.githubusercontent.com/RabahX/RiruCore-MOD/main/update.json
+riruApi=26
+riruMinApi=24

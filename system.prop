@@ -1,0 +1,2 @@
+ro.dalvik.vm.native.bridge=libriruloader.so
+init.svc.flash_recovery=stopped
